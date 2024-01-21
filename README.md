@@ -168,11 +168,11 @@ book, SMS messages and banking information can be intercepted.
 
 # NEW TECHNOLOGIES LEARNED
 -	Fort template creating, tiny.cloud’s instant tools was used creating email template.   
-  The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor | TinyMCE   
+  [The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor | TinyMCE  ](https://www.tiny.cloud/) 
 -	Chart creating tool   
-  Getting Started | Chart.js (chartjs.org)   
+  [Getting Started | Chart.js (chartjs.org)](https://www.chartjs.org/docs/latest/getting-started/)   
 -	Using Gmail's SMTP server:
-  Send email from a printer, scanner, or app - Google Workspace Admin Help  
+  [Send email from a printer, scanner, or app - Google Workspace Admin Help ](https://support.google.com/a/answer/176600?hl=en)https://support.google.com/a/answer/176600?hl=en 
 
 
 
