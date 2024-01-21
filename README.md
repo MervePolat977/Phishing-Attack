@@ -1,15 +1,14 @@
 # Phishing-Attack
 This project was made in order to teach the users how phishing attacks can happen so often and eductae them to be scammed by phishers.
 ## Download The Full Pdf Report
-
 [Merve Polat-Project Report.pdf](https://github.com/MervePolat977/Phishing-Attack/files/14001018/Merve.Polat-190706003-Web.Development.Midterm.Project.Report.pdf)
 
 ## REQUIREMENTS 
-▪ Knowledge on HTML, CSS, and Javascript 
-▪ Ability to design frontend 
-▪ Having general understanding of Phishing and its usage 
-▪ Ability to use Visual Studio or Visual Studio Code 
-▪ Competence in designing Microsoft SQL Management Server Studio and creating databases 
+* Knowledge on HTML, CSS, and Javascript
+* Ability to design frontend    
+* Having general understanding of Phishing and its usage    
+* Ability to use Visual Studio or Visual Studio Code    
+* Competence in designing Microsoft SQL Management Server Studio and creating databases    
 
 ## PROJECT SCOPE 
 The subject of the project is what is phishing, how is it done, what should be taken into consideration, 
@@ -168,12 +167,12 @@ book, SMS messages and banking information can be intercepted.
 ![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/33cf2065-49a6-446d-904a-71fdc4b9d585)
 
 # NEW TECHNOLOGIES LEARNED
-	Fort template creating, tiny.cloud’s instant tools was used creating email template.   
-The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor | TinyMCE   
-	Chart creating tool   
-Getting Started | Chart.js (chartjs.org)   
-	Using Gmail's SMTP server:   
-Send email from a printer, scanner, or app - Google Workspace Admin Help  
+-	Fort template creating, tiny.cloud’s instant tools was used creating email template.   
+  The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor | TinyMCE   
+-	Chart creating tool   
+  Getting Started | Chart.js (chartjs.org)   
+-	Using Gmail's SMTP server:
+  Send email from a printer, scanner, or app - Google Workspace Admin Help  
 
 
 
