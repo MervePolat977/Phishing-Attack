@@ -18,6 +18,8 @@ The subject of the project is what is phishing, how is it done, what should be t
 what risks does it pose?
 
 ## WHAT IS PHISHING 
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/f6fa0459-b133-4e35-96c3-60c913160eba)   
+
 Phishing is a cybercrime in which a target or targets are contacted by email, telephone or text 
 message by someone posing as a legitimate institution to lure individuals into providing sensitive data 
 such as personally identifiable information, banking and credit card details, and passwords.  
@@ -113,6 +115,32 @@ applications you download from unofficial application stores or websites. Additi
 book, SMS messages and banking information can be intercepted.    
 
 # PAGES/COMPONENTS
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/9f29adaf-1f45-4ee9-9eb8-b21d1121b89b)
+
+## MVC 
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/1e1083b0-2603-4938-af0a-e47693753423)   
+
+MVC stands for Model-View-Controller, and it is a software architectural pattern commonly used in the development of web and desktop applications. The goal of MVC is to separate the concerns of an application into three interconnected components, each with its own responsibilities. This separation helps in managing complexity, promoting code reusability, and enhancing maintainability.   
+
+### Model:
+* The Model represents the application's data and business logic.
+*	It is responsible for managing the data, processing business rules, and responding to requests for information from the View.  
+*	Changes to the Model trigger notifications to the Controller, which can then update the View.
+
+
+### View:
+*	The View is responsible for presenting the data to the user and capturing user input.
+*	It receives information from the Model and displays it in a user-friendly format.
+*	The View does not handle business logic or directly interact with the data; it is primarily concerned with the presentation layer.
+
+### Controller:
+*	The Controller acts as an intermediary between the Model and the View.
+*	It receives user input from the View, processes it (if needed), and updates the Model accordingly.
+*	The Controller also listens for changes in the Model and updates the View to reflect those changes.
+*	It encapsulates the application's flow and business logic, ensuring that the Model and View remain independent of each other.
+The separation of concerns in MVC allows for easier maintenance and extensibility. For example, if you need to change the user interface, you can modify the View without affecting the underlying business logic in the Model. Similarly, changes to the data processing logic in the Model do not impact how the data is presented in the View.   
+
+
 ## HIERARCHY OF THE FOLDERS
 ![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/8a4b5a71-adf6-4fb0-af56-dad1e24f4993)   
 
