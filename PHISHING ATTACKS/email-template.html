@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Template</title>
+    <style>
+        body {
+            width: 600px; /* Set the desired width here */
+            margin: 0 auto; /* Center the content horizontally */
+            background: url(images/email.PNG);
+        }
+
+        h1{
+            text-align: center;
+            color: rgb(72, 68, 68);
+            font-style: bold;
+            font-size: 40px;
+            width: 100%;
+        }
+        
+        .footerlink {
+            text-decoration: none;
+        }
+
+        .footer{
+            width: 100%;
+            height: 30px;
+            text-align: center;
+            margin-top: 15px;
+        }
+
+        .container {
+            margin-top: 150px;
+        }
+
+        .footer a{
+            color: rgb(72, 68, 68);
+            text-decoration: none;
+            font-size: 15px;
+            padding: 6px 13px;
+            font-family: Roboto;
+        }
+
+        .footer a:hover{
+            background: #ffffff;
+            border-radius: 5px;
+        }
+
+        button{
+            margin-left: 42%;
+            width: 100px;
+            height: 40px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: box-shadow 0.3s ease-in-out; /* Transition animation for shadow effect */
+            background-color: #fff;
+        }
+
+        button:hover {
+            box-shadow: 0 0 30px rgba(18, 171, 21, 0.5); /* shadow effect */
+          }
+
+    </style>
+    <script src="https://cdn.tiny.cloud/1/0vwzrfo18dwiep993kb7drhj8ldf9u1tq97ala3e5gcgy4gb/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Email Template Creating</h1>
+    <script>
+        tinymce.init({
+          selector: 'textarea',
+          plugins: 'ai tinycomments mentions anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed permanentpen footnotes advtemplate advtable advcode editimage tableofcontents mergetags powerpaste tinymcespellchecker autocorrect a11ychecker typography inlinecss',
+          toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | align lineheight | tinycomments | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+          tinycomments_mode: 'embedded',
+          tinycomments_author: 'Author name',
+          mergetags_list: [
+            { value: 'First.Name', title: 'First Name' },
+            { value: 'Email', title: 'Email' },
+          ],
+          ai_request: (request, respondWith) => respondWith.string(() => Promise.reject("See docs to implement AI Assistant")),
+        });
+      </script>
+      <textarea>
+        Write your message here...
+      </textarea>
+    </div>
+
+    <div>
+        <button>Save</button>
+    </div>
+    
+
+
+      <div class="footer">
+        <footer>
+            <a href="index.html" class="footerlink">Back to Home page...</a>
+          </footer>
+      </div>
+</body>
+</html>
