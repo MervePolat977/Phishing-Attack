@@ -1,7 +1,10 @@
 # PHISHING ATTACKS
 This project was made in order to teach the users how phishing attacks can happen so often and eductae them to be scammed by phishers.
 ## Download The Full Pdf Report
-[Merve Polat-Project Report.pdf](https://github.com/MervePolat977/Phishing-Attack/files/14001018/Merve.Polat-190706003-Web.Development.Midterm.Project.Report.pdf)
+[Merve Polat-Project Report.pdf](https://github.com/MervePolat977/Phishing-Attack/files/14001018/Merve.Polat-190706003-Web.Development.Midterm.Project.Report.pdf) 
+
+## Watch Video
+[Uploading 20240121_144833.zip…]()
 
 ## REQUIREMENTS 
 * Knowledge on HTML, CSS, and Javascript
