@@ -4,7 +4,7 @@ This project was made in order to teach the users how phishing attacks can happe
 [Merve Polat-Project Report.pdf](https://github.com/MervePolat977/Phishing-Attack/files/14001018/Merve.Polat-190706003-Web.Development.Midterm.Project.Report.pdf) 
 
 ## Watch Video
-[Project Video.zip…]()
+https://www.youtube.com/watch?v=3XE1XOuikPg 
 
 ## REQUIREMENTS 
 * Knowledge on HTML, CSS, and Javascript
