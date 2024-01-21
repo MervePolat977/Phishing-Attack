@@ -1,6 +1,8 @@
 # Phishing-Attack
 This project was made in order to teach the users how phishing attacks can happen so often and eductae them to be scammed by phishers.
+## Download The Full Pdf Report
 
+[Merve Polat-Project Report.pdf](https://github.com/MervePolat977/Phishing-Attack/files/14001018/Merve.Polat-190706003-Web.Development.Midterm.Project.Report.pdf)
 
 ## REQUIREMENTS 
 ▪ Knowledge on HTML, CSS, and Javascript 
@@ -187,4 +189,3 @@ Send email from a printer, scanner, or app - Google Workspace Admin Help
 
 
 
-[Merve Polat-190706003-Web Development Midterm Project Report.pdf](https://github.com/MervePolat977/Phishing-Attack/files/14001018/Merve.Polat-190706003-Web.Development.Midterm.Project.Report.pdf)
