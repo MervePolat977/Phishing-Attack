@@ -1,8 +1,6 @@
 # Phishing-Attack
 This project was made in order to teach the users how phishing attacks can happen so often and eductae them to be scammed by phishers.
 
-## Hierarchy of the folders
-![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/cbf2fa98-49f9-4b96-a564-67609603611e)
 
 ## REQUIREMENTS 
 ▪ Knowledge on HTML, CSS, and Javascript 
@@ -104,6 +102,59 @@ Be sure to check the addresses and certificates of the websites you are directed
 and social media or accessed through search engines. You should see the phrase “Issued to: 
 *.paynet.com.tr” in Paynet's web applications. (Image below.) If you see a problem with the 
 certificate, do not take any action and inform your bank.     
+
+Be sure to download the Paynet application you want to install on your mobile phones from official 
+application stores (such as Google Play, Apple Store). Your phone may be infected with viruses due to 
+applications you download from unofficial application stores or websites. Additionally, your phone 
+book, SMS messages and banking information can be intercepted.    
+
+# PAGES/COMPONENTS
+## HIERARCHY OF THE FOLDERS
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/8a4b5a71-adf6-4fb0-af56-dad1e24f4993)   
+
+## HOME PAGE/ADMIN PANEL
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/6cec72a2-5578-4912-88eb-b7c89778ba69) 
+
+## ADMIN LOGIN PAGE
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/42811d40-0d34-46fd-88a5-300e3a1354ac)
+
+## START PAGE
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/25ce0e83-cd0c-4741-927d-3d86a2750df2)
+
+## EMAIL CREATING TEMPLATE  
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/49e38268-4d1a-4b56-bae2-cc434926f2af)
+
+## SHOW STATISTICS
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/af48ed5f-20a8-481e-8f19-8277c156f5dd)
+
+## “ABOUT FISHING” PAGE
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/b6fc50ce-25a0-48db-92ff-52dd15ca7c07)
+
+## FACEBOOK LOGIN 
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/89d3c1f5-ada4-4c2b-a856-88ecf6b44ef5)
+
+## INSTAGRAM LOGIN
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/9e24d439-8ee3-46b1-b882-b4e521d1fe82)
+
+## TWITTER LOGIN
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/0b853470-ede9-4c14-860d-05c85246a79b)
+
+
+# DATABASE ERD (ENTITY RELATIONSHIP DIAGRAM) 
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/7930af33-7bc4-427a-9012-04694054023e)
+
+## TABLES
+### dbo.Admins
+
+
+
+
+
+
+
+
+
+
 
 
 
