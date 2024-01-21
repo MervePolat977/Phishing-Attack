@@ -145,6 +145,34 @@ book, SMS messages and banking information can be intercepted.
 
 ## TABLES
 ### dbo.Admins
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/a61c466e-8144-4f79-9d45-bc8c2e70b971)
+
+ ### dbo.Categories
+ ![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/b1cf357b-0a61-4d09-b5aa-14e5778b1d16)
+
+ ### dbo.Interactions
+ ![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/80a1aa65-e306-4eef-b727-36b058f9607a)
+
+ ### dbo.PhishingEmails
+ ![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/7a4e0bcf-b8fc-43e0-8880-50f1ff021c48)
+
+ ### dbo.ReceivedEmails
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/b44e36ae-6be6-4fa8-af68-8f50831f715f)
+
+### dbo.Users
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/139afcf5-115f-422d-ada6-02f180cf403b)
+
+### dbo.Webpages
+![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/33cf2065-49a6-446d-904a-71fdc4b9d585)
+
+# NEW TECHNOLOGIES LEARNED
+	Fort template creating, tiny.cloud’s instant tools was used creating email template.   
+The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor | TinyMCE   
+	Chart creating tool   
+Getting Started | Chart.js (chartjs.org)   
+	Using Gmail's SMTP server:   
+Send email from a printer, scanner, or app - Google Workspace Admin Help  
+
 
 
 
